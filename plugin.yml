@@ -1,0 +1,6 @@
+name: GeyserWrapper
+main: com.yourname.geyserwrapper.GeyserWrapper
+version: 0.1.0
+api-version: 1.13
+author: YourName
+description: Starter wrapper to load or integrate Geyser components. Replace with full implementation later.
